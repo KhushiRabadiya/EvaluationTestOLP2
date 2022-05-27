@@ -1,0 +1,17 @@
+table,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+.delete{
+  border-color: rgb(250, 5, 5);
+  background-color: rgb(250, 5, 5);
+}
+body{
+  padding-left: 25%;
+}
+th{
+  background-color: rgba(201, 212, 223, 0.925);
+}
+table{
+  width: 70%;
+}
